@@ -1,0 +1,12 @@
+{
+    "desc": "The Placeholder Dashboard",
+    "url": "https://grafana.tmaws.io/d/placeholderlink",
+    "panels": {
+      "PlaceholderPanel": {
+        "desc": "Placeholder desc",
+        "url": "https://grafana.tmaws.io/d/placeholderlink/placeholderpanel"
+      }
+    }
+  }
+  
+  

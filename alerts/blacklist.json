@@ -1,0 +1,3 @@
+{
+    "blacklist": ["hsi_high_cpu", "hsi_stream_time_warning"]
+}

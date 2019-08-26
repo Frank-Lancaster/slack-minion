@@ -1,0 +1,68 @@
+{
+  "name": "supply-minion",
+  "version": "1.0.0",
+  "description": "Bot to help devops in Slack.",
+  "main": "supply-minion.js",
+  "scripts": {
+    "start": "node supply-minion.js 1",
+    "test": "node supply-minion.js 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DEGoodmanWilson/easy-peasy-bot-app.git"
+  },
+  "keywords": [
+    "slack",
+    "bot"
+  ],
+  "author": "D.E. Goodman-Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DEGoodmanWilson/easy-peasy-bot-app/issues"
+  },
+  "homepage": "https://github.com/DEGoodmanWilson/easy-peasy-bot-app#readme",
+  "engines": {
+    "node": "5.1.1"
+  },
+  "dependencies": {
+    "@kubernetes/client-node": "^0.10.2",
+    "ajv": "^5.5.2",
+    "axios": "^0.19.0",
+    "base32": "0.0.6",
+    "bluebird": "^3.5.5",
+    "botbuilder-adapter-slack": "^1.0.3",
+    "botkit": "0.5.8",
+    "botkit-storage-mongo": "^1.0.2",
+    "delay": "^4.3.0",
+    "dotenv": "^8.0.0",
+    "gm": "^1.23.1",
+    "hi-base32": "^0.5.0",
+    "http": "0.0.0",
+    "image-downloader": "^3.4.2",
+    "jira-connector": "^2.14.0",
+    "js-base64": "^2.5.1",
+    "mongodb": "^1.4.39",
+    "node-gitlab-webhook": "^1.0.6",
+    "node-server-screenshot": "^0.2.1",
+    "node-webshot": "^1.0.3",
+    "nodejslack": "^1.4.0",
+    "prettyjson": "^1.2.1",
+    "puppeteer": "^1.12.2",
+    "puppeteer-full-page-screenshot": "^1.0.2",
+    "semaphore": "^1.1.0",
+    "shelljs": "^0.8.3",
+    "slackbots": "^1.2.0",
+    "tar": "^4.0.1",
+    "url-to-screenshot": "^3.0.0",
+    "webpage": "^0.3.0",
+    "webshot": "^0.18.0"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.111.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "eslint": "^4.6.1",
+    "eslint-config-google": "^0.9.1",
+    "serverless-hooks-plugin": "^1.1.0"
+  }
+}

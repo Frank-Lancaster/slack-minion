@@ -1,0 +1,8 @@
+{
+    "placeholder1": {
+        "dashboards": ["https://placeholder/d/000000427/placeholder?orgId=1&from=now-3h&to=now&tz=America%2FLos_Angeles"]
+    },
+    "placeholder2": {
+        "dashboards": ["https://placeholder/d/000000427/placeholder?orgId=1&from=now-3h&to=now&tz=America%2FLos_Angeles"]
+    }
+}
