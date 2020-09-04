@@ -41,7 +41,7 @@
     "image-downloader": "^3.4.2",
     "jira-connector": "^2.14.0",
     "js-base64": "^2.5.1",
-    "mongodb": "^1.4.39",
+    "mongodb": "^3.1.13",
     "node-gitlab-webhook": "^1.0.6",
     "node-server-screenshot": "^0.2.1",
     "node-webshot": "^1.0.3",
