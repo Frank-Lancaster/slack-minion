@@ -27,7 +27,7 @@
   "dependencies": {
     "@kubernetes/client-node": "^0.10.2",
     "ajv": "^5.5.2",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "base32": "0.0.6",
     "bluebird": "^3.5.5",
     "botbuilder-adapter-slack": "^1.0.3",
